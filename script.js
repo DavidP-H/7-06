@@ -15,5 +15,5 @@ function checker () {
     } else {
       alert('Invalid answer, please try again.')
     }
-   }
+  }
 }
